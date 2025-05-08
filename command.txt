@@ -1,0 +1,1 @@
+cd /Users/rowanmorkner/gitHubAll/videoBurst && python3 create_slideshow_v2.py --photo-duration 0.1 --fade-duration 0 

@@ -2,8 +2,7 @@
 
 VideoBurst is a streamlined application for creating rapid-fire slideshows.
 
-![VideoBurst Screenshot](assets/Screenshot1.png)
-
+<img src="assets/Screenshot1.png" alt="screenshot" style="width:200px;"/>
 ## Features
 
 - **Quick Slideshows**: Generate fast-paced slideshows with configurable timing

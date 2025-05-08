@@ -119,6 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - FFmpeg team for the powerful video processing capabilities
 - PyQt team for the cross-platform GUI framework
 - All contributors to the open-source dependencies
+- This program was written and created almost entirely using claude code from Anthropic and chatGPT from OpeanAI.
 
 ## Contributing
 

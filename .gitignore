@@ -70,3 +70,6 @@ Icon
 # Project specific
 temp_files/
 *.mp4
+
+# Claude AI assistant
+.claude/

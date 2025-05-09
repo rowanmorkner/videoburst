@@ -72,4 +72,6 @@ temp_files/
 *.mp4
 
 # Claude AI assistant
-.claude/
+.claude/# Exclude large release files
+release/macos/*.zip
+release/windows/*.zip
